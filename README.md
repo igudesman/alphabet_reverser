@@ -1,7 +1,8 @@
 # 🎀Alphabet Reverser🎀 #
 
 ## Description ##
-Welcome to *Alphabet Reverser* project! We provide a simple program required by *Software Systems Analysis and Design* course lab. Our project is a simple python program that gets any string as user input and outputs alphabetical positions of the characters in the reversed input string. It only works with alphabetic strings, throwing an error for other inputs.
+Welcome to *Alphabet Reverser* project! We provide a simple program required by *Software Systems Analysis and Design* course lab. Our project is a simple python program that gets any string as user input and outputs alphabetical positions of the characters in the reversed input string.
+It only works with alphabetic strings, throwing an error for other inputs.
 
 ## Installation Requirements ##
 
