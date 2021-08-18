@@ -13,8 +13,11 @@ Welcome to *Alphabet Reverser* project! We provide a simple program required by 
 
 ## Sample results ##
 1. Valid input and corresponding output:
+
 ![Image](https://github.com/igudesman/alphabet_reverser/blob/master/example_test_images/valid_input.png)
+
 2. Invalid input and corresponding output:
+
 ![Image](https://github.com/igudesman/alphabet_reverser/blob/master/example_test_images/invalid_input.png)
 
 
