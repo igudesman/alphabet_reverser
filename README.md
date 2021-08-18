@@ -14,5 +14,3 @@ Innopolis University students, Data Science track:
 * Daniil [@igudesman](https://github.com/igudesman) Igudesman
 * Mikhail [@Glemhel](https://github.com/Glemhel) Rudakov
 * Anna [@asleepann](https://github.com/asleepann) Startseva
-
-# License
