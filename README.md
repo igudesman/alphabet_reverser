@@ -11,6 +11,11 @@ Welcome to *Alphabet Reverser* project! We provide a simple program required by 
 3. Enter some string and press `Enter`.
 4. Enjoy the output result!
 
+## Features ##
+* reverse input string
+* convert characters to corresponding alphabet position
+* detect non-alphabeting strings
+
 ## Sample results ##
 1. Valid input and corresponding output:
 
@@ -19,12 +24,6 @@ Welcome to *Alphabet Reverser* project! We provide a simple program required by 
 2. Invalid input and corresponding output:
 
 ![Image](https://github.com/igudesman/alphabet_reverser/blob/master/example_test_images/invalid_input.png)
-
-
-## Features ##
-* reverse input string
-* convert characters to corresponding alphabet position
-* detect non-alphabeting strings
 
 ## Technology stack ##
 Python 3
