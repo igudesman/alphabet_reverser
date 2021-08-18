@@ -1,19 +1,19 @@
-# Alphabet Reverser
+# 🎀Alphabet Reverser🎀 #
 
-# Description
+## Description ##
 Program to get any string as user input and output code for the string - reverse the string and code using alphabet position.
 
-# How to Use
+## How to Use ##
 1.
 2.
 3.
 
-# Demo
+## Demo ##
 
-# Technology stack
+## Technology stack ##
 Python 3
 
-# Credits
+## Credits ##
 [Innopolis University](https://innopolis.university/en/) students, Data Science track:
 * Daniil [@igudesman](https://github.com/igudesman) Igudesman
 * Mikhail [@Glemhel](https://github.com/Glemhel) Rudakov
