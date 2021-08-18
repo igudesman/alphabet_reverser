@@ -8,7 +8,10 @@ Program to get any string as user input and output code for the string - reverse
 2.
 3.
 
-## Demo ##
+## Features ##
+* reverse input string
+* convert characters to corresponding alphabet position
+* detect non-alphabeting strings
 
 ## Technology stack ##
 Python 3
