@@ -1,6 +1,7 @@
-# Program to get any string as user input and output code for the string - reverse the string and code using alphabet position
+# Alphabet Reverser
 
 # Description
+Program to get any string as user input and output code for the string - reverse the string and code using alphabet position.
 
 # How to Use
 
