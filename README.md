@@ -8,7 +8,7 @@ Welcome to *Alphabet Reverser* project! We provide a simple program required by 
 * convert characters to corresponding alphabet position
 * detect non-alphabeting strings
 
-## Technology stack ##
+## Technology Stack ##
 Python 3
 
 ## Installation Requirements ##
@@ -20,7 +20,7 @@ Python 3: installation guide you can find [here](https://www.python.org/download
 3. Enter some string and press `Enter`.
 4. Enjoy the output result!
 
-## Sample results ##
+## Sample Results ##
 1. Valid input and corresponding output:
 
 ![Image](https://github.com/igudesman/alphabet_reverser/blob/master/example_test_images/valid_input.png)
