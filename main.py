@@ -8,5 +8,6 @@ def get_reverse_string_code(s):
         result.append(str(ord(char) - ord('A') + 1))
     return ' '.join(result)
 
-s = input()
-print(get_reverse_string_code(s))
+if __name__ == '__main__':
+    s = input()
+    print(get_reverse_string_code(s))
