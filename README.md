@@ -12,7 +12,7 @@ Welcome to *Alphabet Reverser* project! We provide a simple program required by 
 Python 3
 
 ## Installation Requirements ##
-Python 3: installation guide you can find [here](https://www.python.org/downloads/)
+Python 3: installation guide you can find [here](https://wiki.python.org/moin/BeginnersGuide/Download)
 
 ## How to Use ##
 1. Open Terminal and move to the project folder.
