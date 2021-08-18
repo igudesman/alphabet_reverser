@@ -5,12 +5,18 @@ Welcome to *Alphabet Reverser* project! We provide a simple program required by 
 
 ## Installation Requirements ##
 
-
 ## How to Use ##
-1. Open Terminal and move to the project folder
-2. Run `python main.py` for Windows and `python3 main.py` for Ubuntu and MacOS
-3. Enter some string and press `Enter`
+1. Open Terminal and move to the project folder.
+2. Run `python main.py` for Windows and `python3 main.py` for Ubuntu and MacOS.
+3. Enter some string and press `Enter`.
 4. Enjoy the output result!
+
+## Sample results ##
+1. Valid input and corresponding output:
+![Image](https://github.com/igudesman/alphabet_reverser/blob/master/example_test_images/valid_input.png)
+2. Invalid input and corresponding output:
+![Image](https://github.com/igudesman/alphabet_reverser/blob/master/example_test_images/invalid_input.png)
+
 
 ## Features ##
 * reverse input string
