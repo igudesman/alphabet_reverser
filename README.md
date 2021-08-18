@@ -7,9 +7,9 @@ Welcome to *Alphabet Reverser* project! We provide a simple program required by 
 
 
 ## How to Use ##
-1.
-2.
-3.
+1. 
+2. 
+3. 
 
 ## Features ##
 * reverse input string
