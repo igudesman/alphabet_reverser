@@ -7,9 +7,10 @@ Welcome to *Alphabet Reverser* project! We provide a simple program required by 
 
 
 ## How to Use ##
-1. 
-2. 
-3. 
+1. Open Terminal and move to the project folder
+2. Run `python main.py` for Windows and `python3 main.py` for Ubuntu and MacOS
+3. Enter some string and press `Enter`
+4. Enjoy the output result!
 
 ## Features ##
 * reverse input string
