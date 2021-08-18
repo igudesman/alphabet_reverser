@@ -6,9 +6,13 @@
 
 # Demo
 
-# Technologies stack
-* 
+# Technology stack
+Python 3
 
 # Credits
+Innopolis University students, Data Science track:
+* Daniil @igudesman Igudesman
+* Mikhail @Glemhel Rudakov
+* Anna @asleepann Startseva
 
 # License
