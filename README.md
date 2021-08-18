@@ -11,7 +11,7 @@ Python 3
 
 # Credits
 Innopolis University students, Data Science track:
-* Daniil @igudesman Igudesman
+* Daniil [@igudesman](https://github.com/igudesman) Igudesman
 * Mikhail @Glemhel Rudakov
 * Anna @asleepann Startseva
 
